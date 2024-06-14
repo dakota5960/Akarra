@@ -1,0 +1,38 @@
+Mar - 18th 2024
+-Release of the Unknown class for testing
+-Unknown's guild is complete and located north along the shore from Hope
+-new skills for unknown: Ambition, Antidote, poison wound, internal magic, lightning dash, and nullify yellow
+-new potions/items added to Drengel's shop in Grace (for higher level soloing made easier)
+-new weapons for the unknown class: poison: dagger, sword, shortsword, axe, and blow gun + darts
+
+
+Mar - 12th 2024
+-added shadow island castle
+-has a repeatable quest line offering a decent chunk of xp
+-2 new mobs added within that dungeon that has new mob drops
+-2 mobs at war that the player joins (like in light vs dark wizards, or iwids vs menites)
+-3 new rings added for hp,mp,stam
+-mobs over lvl 115 will now no longer drop iwid tab pieces
+-mobs over lvl 115 will now drop 1 of a single type of attribute potion. EG: if it drops strength pot, then that is all it will drop
+-mobs over lvl 150 will have a chance to drop Enhanced versions of attribute potions
+-Giant rats have 3 craftable pieces (cloak,gloves,boots) all give speed bonuses but give minimal defence bonuses(currently best exploration set)
+
+
+
+Mar - 5th 2024
+-Grace has got a visual update + addition to 2 new houses in town
+-Housing system is being implemented and tested this should help leveling, travelling, and overall adds to the role playing experience
+-"Drengel" added to Grace's shop that allows for trading drengel notes that are tradeable(used for buying houses) his shop looks like it costs more than what it actually is, eg 500k=50k (no idea why and cant change) 
+-Nex GFX which includes: darker client overall, realistic world map, new class tree design
+
+
+
+
+Feb - 26th 2024
+-Bg corner is populated now like it was on AkarraX2
+-New cavern on shadow island that contains a new monster Giant rats
+-new "town" called Grace (want to incororate player houses here) located within shadow island
+-new gfx
+-shaman class is now released for testing
+-shaman guild has been completed (inside guild has new recipes for better potions)
+-3 new lvl 125 items added in new town
