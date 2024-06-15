@@ -1,5 +1,57 @@
+June - 14th 2024
+
+Black Reaper + Updater + more releases
+
+UPDATER: The game now has an auto updater. This will automatically check that your game is up to date by checking the current_version folder for the right number and downloading automatically based off of if you are up to date. All that this will do is update your sectors and gfx folders, as well as give you the new version number + new updates text files. This will now make it less hassle to know if you are running the correct version and having to go find the download for it.
+
+
+REAPER + NECRO TWEAKS:
+
+-Black Reaper class overhaul/update
+-Void Light - new spell - casts a curse on a single enemy inflicting damage *new fx with this spell
+-Shatter Ethereal - new spell - casts powerful magic spikes at a single enemy *new FX
+-Reaper Fumes - new spell - casts damage over time on a single enemy, very powerful but slow cast speed *new FX
+-Shadow Rain 2 + Poison Rain 2 + Meteor I + Icefield 1 + 2- existing spells - no longer available to black reaper or necromancers
+-Ghoul touch - existing spell - slight buff
+-Death orb - Existing spell - now only exists for black reaper, removed from lich - slight tweaks to the spell - max gems more powerful
+-Guild house created for black reaper, just north of Hope between the 2 paths that lead north
+-unique quest line to get access to trade within guild
+
+-Energy drain(yellow-necromancer class) is no longer a pvp skill and instead decreases opponents accuracy
+-Dark Magic Barrage - new spell - casts lower powered fast paced orbs - for all necromancers - bought in faith at mezmear or black reaper guild
+
+With the above updates keep in mind it is no longer advised to go with a red or blue or green necromancer if you wish to use AOE spells
+you will now have to choose wisely as each color of necromancer will have different capabilities and uses to your party and experience playing.
+Below is a small guide based off of colors that should assist you in choosing the right color for your needs:
+
+Red: necromancer has the unique spell blood leaches. which is a damage over time spell. it does not have an aoe spell
+
+Blue: necromancer has nullify defenses a very powerful spell that kills opponents DR. it does not have an aoe spell
+
+White necromancer has sys relief one of the most powerful spells to a wizards arsenal since it regens MP.Necro has shadow rain 1. lich has shadow rain 2
+
+Yellow: necromancer has energy drain a spell that vastly nullifies opponents attack rating + necromancer gets poison rain 1. Lich gets poison rain 2.
+
+Green: necromancer is a waste at this time. So please do not play green unless you want to receieve absolutley no benefits listed above and handicap yourself. No judgement if you are into that thing though. lol
+
+Additional updates:
+-more spawns on shadow island
+-increase quest xp from king barias on shadow island(probably the current meta for xp farming especially with a team)
+-decreased resistances to most color for most monsters on shadow island to make it more balanced for mages + spell usage
+-with the above update comes a slight nerf to timestop + entangle + tangled Web only the duration is going to be changed (otherwise too op)
+-Drengel in the town of Grace now has 2 new quests that encourage exploration of Shadow Islands surface
+-Quest rewards from both of the above quests include 2 new skills that anyone can use* *internal magic is lvl 130 min to use
+
+-2 new spells from drengels quests:
+-Internal Light - gives a light boost to those without a light or those wanting more
+-Internal Magic - gives a cr boost for any class that is above lvl 130
+
+ 
+
 Mar - 18th 2024
--Release of the Unknown class for testing
+
+Unknown Class Release
+
 -Unknown's guild is complete and located north along the shore from Hope
 -new skills for unknown: Ambition, Antidote, poison wound, internal magic, lightning dash, and nullify yellow
 -new potions/items added to Drengel's shop in Grace (for higher level soloing made easier)
@@ -7,11 +59,15 @@ Mar - 18th 2024
 
 
 Mar - 12th 2024
+
+Shadow Island Castle Release
+
 -added shadow island castle
--has a repeatable quest line offering a decent chunk of xp
+-has a repeatable quest line offering a decent chunk of xp *king barias*
 -2 new mobs added within that dungeon that has new mob drops
 -2 mobs at war that the player joins (like in light vs dark wizards, or iwids vs menites)
 -3 new rings added for hp,mp,stam
+-mp ring is now new b.i.s. for mages now
 -mobs over lvl 115 will now no longer drop iwid tab pieces
 -mobs over lvl 115 will now drop 1 of a single type of attribute potion. EG: if it drops strength pot, then that is all it will drop
 -mobs over lvl 150 will have a chance to drop Enhanced versions of attribute potions
@@ -20,6 +76,9 @@ Mar - 12th 2024
 
 
 Mar - 5th 2024
+
+Grace QoL Release
+
 -Grace has got a visual update + addition to 2 new houses in town
 -Housing system is being implemented and tested this should help leveling, travelling, and overall adds to the role playing experience
 -"Drengel" added to Grace's shop that allows for trading drengel notes that are tradeable(used for buying houses) his shop looks like it costs more than what it actually is, eg 500k=50k (no idea why and cant change) 
@@ -29,6 +88,9 @@ Mar - 5th 2024
 
 
 Feb - 26th 2024
+
+Shaman + Grace Release
+
 -Bg corner is populated now like it was on AkarraX2
 -New cavern on shadow island that contains a new monster Giant rats
 -new "town" called Grace (want to incororate player houses here) located within shadow island
