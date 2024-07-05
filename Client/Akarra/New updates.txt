@@ -1,24 +1,36 @@
+July - 4th 2024
+- fixed a bunch of entrances leading to nowhere, and now some of them also lead to somewhere:
+-Great Viom Caverns now exist, Morbus Tower in the swamp now exists and contains new monsters + a new boss  (x1102 y4600)
+-added a small boss dungeon at the center of the winged swamp demon maze in the lvl 150 swamp area
+-added sea serpent in the lvl 150 area too
+-new lvl 150 gloves added as a drop from new boss reqs 200 str - 170 agil - lvl 150
+
+
+
+
+
+
+June - 18th 2024
+-added an upgraded nightmare dagger. It is player crafted with a potion of darkness(crafted with blackscale skin or nightmare fuel + Fresh Water) + a shadow gem (sold by dregnel). This will give you a potion of shadows. The potion of shadows can be combined with the nightmare dagger to make the new upgraded dagger lvl 130 required
+-Added Emerald Bow of Destiny it is a lvl 130 bow that is slower in speed but higher in damage  which should help with arrow shortage issues - it is created with an emerald brew (emerald bought from drengel + fresh water) + Long bow of destiny (from ranger's guild)
+
+
+
 June - 14th 2024
 
 Black Reaper + Updater + more releases
 
-UPDATER: The game now has an auto updater. This will automatically check that your game is up to date by checking the current_version folder for the right number and downloading automatically based off of if you are up to date. All that this will do is update your sectors and gfx folders, as well as give you the new version number + new updates text files. This will now make it less hassle to know if you are running the correct version and having to go find the download for it.
-
-
-REAPER + NECRO TWEAKS:
-
--Black Reaper class overhaul/update
+-Black Reaper class overhaul/update:
+-energy drain(yellow-necromancer class) is no longer a pvp skill and instead decreases opponents accuracy
 -Void Light - new spell - casts a curse on a single enemy inflicting damage *new fx with this spell
 -Shatter Ethereal - new spell - casts powerful magic spikes at a single enemy *new FX
+-Black Magic Barrage - new spell - casts lower powered fast paced orbs - for all necromancers - bought in faith at mezmear
 -Reaper Fumes - new spell - casts damage over time on a single enemy, very powerful but slow cast speed *new FX
 -Shadow Rain 2 + Poison Rain 2 + Meteor I + Icefield 1 + 2- existing spells - no longer available to black reaper or necromancers
 -Ghoul touch - existing spell - slight buff
 -Death orb - Existing spell - now only exists for black reaper, removed from lich - slight tweaks to the spell - max gems more powerful
 -Guild house created for black reaper, just north of Hope between the 2 paths that lead north
 -unique quest line to get access to trade within guild
-
--Energy drain(yellow-necromancer class) is no longer a pvp skill and instead decreases opponents accuracy
--Dark Magic Barrage - new spell - casts lower powered fast paced orbs - for all necromancers - bought in faith at mezmear or black reaper guild
 
 With the above updates keep in mind it is no longer advised to go with a red or blue or green necromancer if you wish to use AOE spells
 you will now have to choose wisely as each color of necromancer will have different capabilities and uses to your party and experience playing.
@@ -28,11 +40,11 @@ Red: necromancer has the unique spell blood leaches. which is a damage over time
 
 Blue: necromancer has nullify defenses a very powerful spell that kills opponents DR. it does not have an aoe spell
 
-White necromancer has sys relief one of the most powerful spells to a wizards arsenal since it regens MP.Necro has shadow rain 1. lich has shadow rain 2
+White necromancer has sys relief one of the most powerful spells to a wizards arsenal since it regens MP. Necro has shadow rain 1. lich has shadow rain 2
 
 Yellow: necromancer has energy drain a spell that vastly nullifies opponents attack rating + necromancer gets poison rain 1. Lich gets poison rain 2.
 
-Green: necromancer is a waste at this time. So please do not play green unless you want to receieve absolutley no benefits listed above and handicap yourself. No judgement if you are into that thing though. lol
+Green: necromancer is a waste at this time. So please do not play green unless you want to receive absolutely no benefits listed above and handicap yourself. No judgement if you are into that thing though. lol
 
 Additional updates:
 -more spawns on shadow island
@@ -41,10 +53,6 @@ Additional updates:
 -with the above update comes a slight nerf to timestop + entangle + tangled Web only the duration is going to be changed (otherwise too op)
 -Drengel in the town of Grace now has 2 new quests that encourage exploration of Shadow Islands surface
 -Quest rewards from both of the above quests include 2 new skills that anyone can use* *internal magic is lvl 130 min to use
-
--2 new spells from drengels quests:
--Internal Light - gives a light boost to those without a light or those wanting more
--Internal Magic - gives a cr boost for any class that is above lvl 130
 
  
 
