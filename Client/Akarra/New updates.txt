@@ -1,3 +1,15 @@
+July - 25th 2024
+Swampy Content + bug squashing - new client:
+-created a few level 130-150 weapons and armor to better close the gap to 175 from new Ratkin area
+-Ratkin species introduced (they are located in level 150 swamp near the entrance to the demon maze) they have a few variations and each drop different items
+-New NPC Chippy added in Swamp knight castle entrance - He has a quest for those seeking faster travel around the swamp and it's "barriers"
+-New ring introduced for level 150+ requiring 211 strength to use it (craft @tina: Ring base + ring of protection + ring of desecration + *uncut onyx  *new item from different Ratkin mobs) the ring provides both max damage and damage reduction and is incredibly powerful
+-bug fixes here and there and well... pretty much everywhere fixed always more to arise but keep letting me know!
+
+
+
+
+
 July - 4th 2024
 - fixed a bunch of entrances leading to nowhere, and now some of them also lead to somewhere:
 -Great Viom Caverns now exist, Morbus Tower in the swamp now exists and contains new monsters + a new boss  (x1102 y4600)
